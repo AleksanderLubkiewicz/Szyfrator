@@ -9,3 +9,11 @@ Run Szyfrator.py via command prompt or interpreter. Follow the on-screen instruc
 
 ## Information
 
+Szyfrator uses the following modules:
+* subprocess
+* sqlite3
+* random
+* os
+* textwrap
+
+Szyfrator uses windows notepad.
