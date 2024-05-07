@@ -1,5 +1,5 @@
 # Szyfrator.py
-A program for encrypting and decrypting text.
+A Python program for encrypting and decrypting text.
 
 ## Instalation
 Place the files Szyfrator, KEYS, Cipher, Cipher_2, Text, Text_2 in one folder. 
@@ -17,3 +17,4 @@ Szyfrator uses the following modules:
 * textwrap
 
 Szyfrator uses windows notepad.
+The program requires python to run
