@@ -1,0 +1,2 @@
+Enter the text to be encrypted. Save the file and close Notepad. Wpisz tekst do zaszyfrowania.
+Zapisz plik i zamknij Notatnik.
