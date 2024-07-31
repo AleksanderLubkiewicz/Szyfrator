@@ -1,4 +1,4 @@
-# Szyfrator.py
+# Szyfrator
 A Python program for encrypting and decrypting text.
 
 ## Instalation
