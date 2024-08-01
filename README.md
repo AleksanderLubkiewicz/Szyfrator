@@ -3,7 +3,7 @@ A Python program for encrypting and decrypting text.
 
 
 ## Files
-Szyfrator.zip - Compiled and ready to use application.
+Szyfrator.zip - Compiled and ready to use application. \n
 Ingredients - Python script, key library, and icons.
 
 ## How it's working?
